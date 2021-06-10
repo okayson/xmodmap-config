@@ -1,3 +1,4 @@
+! Muhenkan is changed to modifier.
 keycode 102 = Mode_switch
 
 keycode  43 = h H Left Left
@@ -26,3 +27,7 @@ keycode  17 = 8 parenleft F8 F8
 keycode  18 = 9 parenright F9 F9
 keycode  19 = 0 asciitilde F10 F10
 
+! Caps lock is changed to left control.
+clear lock
+keycode  66 = Control_L Control_L Caps_Lock Caps_Lock
+add control = Control_L
