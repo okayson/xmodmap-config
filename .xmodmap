@@ -1,0 +1,28 @@
+keycode 102 = Mode_switch
+
+keycode  43 = h H Left Left
+keycode  44 = j J Down Down
+keycode  45 = k K Up Up
+keycode  46 = l L Right Right
+keycode  30 = u U BackSpace BackSpace
+keycode  31 = i I Delete Delete
+keycode  58 = m M Return Return
+keycode  57 = n N Next Next
+keycode  33 = p P Prior Prior
+keycode  48 = colon asterisk Zenkaku_Hankaku Zenkaku_Hankaku
+keycode  59 = comma less Home Home
+keycode  60 = period greater End End
+keycode  32 = o O Tab Tab
+keycode  47 = semicolon plus Escape Escape
+
+keycode  10 = 1 exclam F1 F1
+keycode  11 = 2 quotedbl F2 F2
+keycode  12 = 3 numbersign F3 F3
+keycode  13 = 4 dollar F4 F4
+keycode  14 = 5 percent F5 F5
+keycode  15 = 6 ampersand F6 F6
+keycode  16 = 7 apostrophe F7 F7
+keycode  17 = 8 parenleft F8 F8
+keycode  18 = 9 parenright F9 F9
+keycode  19 = 0 asciitilde F10 F10
+
